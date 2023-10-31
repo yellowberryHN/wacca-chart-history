@@ -2,7 +2,7 @@
 #MUSIC_SCORE_VERSION 0
 #GAME_VERSION 
 #MUSIC_FILE_PATH MER_BGM_S01_239
-#OFFSET -0.001450
+#OFFSET 0.000000
 #MOVIEOFFSET 0.000000
 #BODY
    0    0    2 120.000000
@@ -436,4 +436,4 @@
   62 1440    1    2  424   30   15    1
   62 1440    1    2  425   45   15    1
   62 1680    1   13  426   25   40    1    2
-  63  960    1   14  427    0   60    1
+  64    0    1   14  427    0   60    1
