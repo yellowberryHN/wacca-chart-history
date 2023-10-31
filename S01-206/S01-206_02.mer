@@ -2,11 +2,11 @@
 #MUSIC_SCORE_VERSION 0
 #GAME_VERSION 
 #MUSIC_FILE_PATH MER_BGM_S01_206
-#OFFSET 0.000000
+#OFFSET 0.014500
 #MOVIEOFFSET 0.000000
 #BODY
    0    0    2 180.000000
-   0    0    3    4
+   0    0    3    4    4
    0    0    1   12    0   15   60    1    2
    1    0    1    7    1   39    9    1
    1    0    1    7    2   48   12    1
