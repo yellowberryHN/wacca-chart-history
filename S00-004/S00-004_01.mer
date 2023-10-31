@@ -2,7 +2,7 @@
 #MUSIC_SCORE_VERSION 1
 #GAME_VERSION 1
 #MUSIC_FILE_PATH MER_BGM_S00_004
-#OFFSET 1.199550
+#OFFSET 1.2
 #MOVIEOFFSET 0.000000
 #BODY
    0    0    2 200.000000
@@ -931,4 +931,4 @@
  107  960    1    5  921   35   20    1
  107 1440    1    7  922   35   20    1
  108    0    1    2  923   40   10    1
- 109    0    1   14  924    0   60    1
+ 110    0    1   14  924    0   60    1
